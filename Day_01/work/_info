@@ -1,0 +1,242 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 d/home/DVLSI11
+T_opt
+Z2 !s11d adder_4bit_sv_unit /home/DVLSI11/UVM/Day_01/work 1 adder_if 1 /home/DVLSI11/UVM/Day_01/work 
+!s110 1782309153
+V5>^FW65I[1iJU9WEAV2Db1
+04 8 4 work adder_tb fast 0
+=1-000ae431a4f1-6a3be121-8b41f-3c180
+R0
+Z3 !s12b OEM100
+Z4 !s124 OEM100
+Z5 o-quiet -auto_acc_if_foreign -work work
+Z6 tCvgOpt 0
+n@_opt
+Z7 OL;O;2022.4;75
+T_opt1
+!s11d adder_cum_sub_sv_unit /home/DVLSI11/UVM/Day_01/work 1 adder_if 1 /home/DVLSI11/UVM/Day_01/work 
+!s110 1782306496
+V7H<7hf]I4cXjdT4o^kQ]h2
+04 16 4 work adder_subtractor fast 0
+=1-000ae431a4f1-6a3bd6bf-ebffc-378ce
+R0
+R3
+R4
+o-quiet -auto_acc_if_foreign -work work +acc
+R6
+n@_opt1
+R7
+R1
+T_opt2
+R2
+!s110 1782309128
+VY1FY`<e]gf_RVeN9C2jIG0
+04 2 4 work tb fast 0
+=1-000ae431a4f1-6a3be108-b86bd-3c0cc
+R0
+R3
+R4
+R5
+R6
+n@_opt2
+R7
+R1
+vadder
+Z8 !s105 adder_4bit_sv_unit
+Z9 DXx4 work 18 adder_4bit_sv_unit 0 22 NS`TGPFI_3l>N;nmQiX=h2
+Z10 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z11 !s110 1782309138
+!i10b 1
+!s100 ;G4joiSPITIA<HN;Dj:dR3
+IoBdm03ZdDC@k_HoBJk8kM3
+S1
+Z12 d/home/DVLSI11/UVM/Day_01
+Z13 w1782309113
+Z14 8/home/DVLSI11/UVM/Day_01/adder_4bit.sv
+Z15 F/home/DVLSI11/UVM/Day_01/adder_4bit.sv
+!i122 13
+L0 1 4
+Z16 VDg1SIo80bB@j0V0VzS_@n1
+Z17 OL;L;2022.4;75
+r1
+!s85 0
+31
+Z18 !s108 1782309138.000000
+Z19 !s107 /home/DVLSI11/UVM/Day_01/adder_4bit.sv|
+Z20 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/DVLSI11/UVM/Day_01/adder_4bit.sv|
+!i113 0
+Z21 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R6
+Xadder_4bit_sv_unit
+Z22 !s115 adder_if
+R10
+R11
+VNS`TGPFI_3l>N;nmQiX=h2
+r1
+!s85 0
+!i10b 1
+!s100 :W3l:DZC`_UVIP643h`5^3
+INS`TGPFI_3l>N;nmQiX=h2
+!i103 1
+S1
+R12
+R13
+R14
+R15
+!i122 13
+L0 11 0
+R17
+31
+R18
+R19
+R20
+!i113 0
+R21
+R6
+Xadder_cum_sub_sv_unit
+R22
+R10
+Z23 !s110 1782308625
+V4mLAJ<[TM8m4RgWkN3ChX3
+r1
+!s85 0
+!i10b 1
+!s100 diaW5KR60h5TiDl^zcH[O0
+I4mLAJ<[TM8m4RgWkN3ChX3
+!i103 1
+S1
+R12
+Z24 w1782308616
+Z25 8/home/DVLSI11/UVM/Day_01/adder_cum_sub.sv
+Z26 F/home/DVLSI11/UVM/Day_01/adder_cum_sub.sv
+!i122 10
+L0 20 0
+R17
+31
+Z27 !s108 1782308625.000000
+Z28 !s107 /home/DVLSI11/UVM/Day_01/adder_cum_sub.sv|
+Z29 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/DVLSI11/UVM/Day_01/adder_cum_sub.sv|
+!i113 0
+R21
+R6
+Yadder_if
+R8
+R9
+R10
+R11
+!i10b 1
+!s100 bfFUmg8a_`7=_X2UH7k<z2
+IHXebm<Q>7]cbE=f0OL8C92
+S1
+R12
+R13
+R14
+R15
+!i122 13
+L0 6 0
+R16
+R17
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R21
+R6
+vadder_subtractor
+!s105 adder_cum_sub_sv_unit
+DXx4 work 21 adder_cum_sub_sv_unit 0 22 4mLAJ<[TM8m4RgWkN3ChX3
+R10
+R23
+!i10b 1
+!s100 T1J3WT1Hd4Ia9@;c]CIi?0
+I?V[NOj=D8nn[bWXROND]L2
+S1
+R12
+R24
+R25
+R26
+!i122 10
+L0 1 10
+R16
+R17
+r1
+!s85 0
+31
+R27
+R28
+R29
+!i113 0
+R21
+R6
+vadder_tb
+R10
+R9
+R11
+R16
+r1
+!s85 0
+!i10b 1
+!s100 :V5kIN=MRD?I2GiIjeDHd3
+I8_H0`dl98IK8o_;KIE@dP0
+R8
+S1
+R12
+R13
+R14
+R15
+!i122 13
+Z30 L0 67 30
+R17
+31
+R18
+R19
+R20
+!i113 0
+R21
+R6
+vtb
+R10
+R9
+!s110 1782309096
+R16
+r1
+!s85 0
+!i10b 1
+!s100 ]HI4ZSf55Q^1PN[5@njM@2
+I4M>=MPfUZ1WfRHnTl_0b71
+R8
+S1
+R12
+w1782309091
+R14
+R15
+!i122 12
+R30
+R17
+31
+!s108 1782309096.000000
+R19
+R20
+!i113 0
+R21
+R6

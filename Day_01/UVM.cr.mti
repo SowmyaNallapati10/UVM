@@ -1,0 +1,11 @@
+/home/DVLSI11/UVM/Day_01/adder_cum_sub.sv {1 {vlog -work work -vopt -sv -stats=none /home/DVLSI11/UVM/Day_01/adder_cum_sub.sv
+QuestaSim-64 vlog 2022.4 Compiler 2022.10 Oct 18 2022
+-- Compiling module adder_subtractor
+-- Compiling interface adder_if
+-- Compiling package adder_cum_sub_sv_unit
+-- Compiling module tb
+
+Top level modules:
+	tb
+
+} {} {}}
